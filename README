@@ -1,6 +1,6 @@
 Dopo aver importato il progetto l'unica cosa da fare prima del run è modificare in linea 11 il contenuto di:
 data = pd.read_csv('/Users/danielemorganti/Desktop/uni/terzo_anno/1s_AI/BackPropagation/archive/mnist_train.csv')
-Si deve mettere all'interno delle parentesi il percorso file del dataset di train in forato csv.
+Si deve mettere all'interno delle parentesi il percorso file del dataset di train in formato csv.
 Io ho reperito il file qua: https://www.kaggle.com/oddrationale/mnist-in-csv.
 
 Fatto questo si può fare run, ogni 100 iterazioni viene stampata a schermo la funzione di loss che piano piano diminuisce. 
