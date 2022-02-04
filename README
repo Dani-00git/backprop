@@ -5,3 +5,4 @@ Io ho reperito il file qua: https://www.kaggle.com/oddrationale/mnist-in-csv.
 
 Fatto questo si può fare run, ogni 100 iterazioni viene stampata a schermo la funzione di loss che piano piano diminuisce. 
 Alla fine viene stampato un grafico che mostra la loss in funzione del numero di iterazioni e la percentuale di predizioni corrette nella fase di test.
+Ad eseguire il codice dovrebbe volerci un minuto circa.
